@@ -7,4 +7,5 @@ I'm currently studying at Carthage College, where I plan to graduate in May of 2
 Since January of 2021, I've been working on a computational analysis of zebrafish behaviors, particularly their eye movements after an injury to the optic nerve. I'm interested in machine learning and data analysis techniques.
 
 <a href="portfolio/">Portfolio</a><br>
-<a href="courses/">Courses</a>
+<a href="courses/">Courses</a><br>
+<a href="contact/">Contact</a>
