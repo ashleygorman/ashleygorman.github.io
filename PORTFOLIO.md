@@ -4,5 +4,5 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Jan. 2021 – present
-I analyzed zebrafish eye angles using two different programs. I uploaded videos of adult zebrafish to DeepLabCut and labeled individual frames in order to train the neural network to recognize eye movements. I also used Stytra's built-in tracking software to follow eye movements in videos of larval zebrafish. For both adults and larval fish, I generated graphs that show how the eye angles change over time. In working on this project, I've gained experience working with neural networks and furthered my interest in machine learning algorithms. I intend to continue the project by mathematically analyzing the data I've collected.
+##Jan. 2021 – present<br>
+<p>I analyzed zebrafish eye angles using two different programs. I uploaded videos of adult zebrafish to DeepLabCut and labeled individual frames in order to train the neural network to recognize eye movements. I also used Stytra's built-in tracking software to follow eye movements in videos of larval zebrafish. For both adults and larval fish, I generated graphs that show how the eye angles change over time. In working on this project, I've gained experience working with neural networks and furthered my interest in machine learning algorithms. I intend to continue the project by mathematically analyzing the data I've collected.</p>
