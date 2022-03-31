@@ -1,1 +1,12 @@
 remote_theme: just-the-docs/just-the-docs
+---
+layout: default
+title: Portfolio
+url: /portfolio
+nav_order: 2
+---
+layout: default
+title: Data Science at Carthage
+url: /data-science-at-carthage
+nav_order: 3
+---
