@@ -1,1 +1,4 @@
 remote_theme: just-the-docs/just-the-docs
+aux_links:
+  "Just the Docs on GitHub":
+    - "//github.com/just-the-docs/just-the-docs"
