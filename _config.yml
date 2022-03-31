@@ -1,10 +1,1 @@
 remote_theme: just-the-docs/just-the-docs
----
-layout: default
-title: Portfolio
-permalink: /portfolio
----
-layout: default
-title: Data Science at Carthage
-permalink: /data-science-at-carthage
----
